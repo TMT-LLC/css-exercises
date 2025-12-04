@@ -2,12 +2,16 @@
 
 /* Universal Selector */
 * {
-    color: purple;
+    /*  */
 }
 
 /* Type Selector */
 div {
     color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* Class Selector */
