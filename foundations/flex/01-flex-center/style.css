@@ -20,3 +20,12 @@
   align-items: center;
   justify-content: center;
 }
+
+/* ADDED CHANGES TO CENTER/FILL IN PAGE */
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
