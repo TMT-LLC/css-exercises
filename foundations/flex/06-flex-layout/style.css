@@ -28,10 +28,6 @@ input {
 
 /* ADDED CHANGES */
 
-* {
-  /* border: 2px dotted red */
-}
-
 body {
   display: flex;
   flex-flow: column;
